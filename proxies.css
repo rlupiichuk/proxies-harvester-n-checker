@@ -1,0 +1,21 @@
+; a {text-decoration:none; color:black;}
+; a:hover {color:blue; cursor: pointer;}
+; span:hover {color:blue; }
+
+body {
+BACKGROUND: #ffffff; color: #333344;
+}
+a,span{font: 12px verdana; color: #336699;text-decoration: none;}
+a:hover,span:hover{color: #339933; cursor: pointer;}
+
+h1{font: 20px verdana; color: #336699;text-decoration: none;}
+h2{font: 18px verdana; color: #336699;text-decoration: none;}
+h3{font: 16px verdana; color: #336699;text-decoration: none;}
+h4{font: 14px verdana; color: #336699;text-decoration: none;}
+
+fieldset{font: 12px verdana; color: #336699;text-decoration: none;}
+
+table,p{font: 11px verdana; text-decoration: none;}
+
+input{font: 10px verdana; text-decoration: none;}
+textarea{font: 10px verdana; text-decoration: none;}
